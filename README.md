@@ -1,3 +1,4 @@
+
 UNIVERSIDADE FEDERAL DE ALAGOAS - UFAL
 INSTITUTO DE COMPUTAÇÃO - IC
 Disciplina: Estrutura de Dados (ED)
